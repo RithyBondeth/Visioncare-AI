@@ -16,6 +16,24 @@
 
 </div>
 
+<!-- product-images:start -->
+
+## Product preview
+
+<p align="center">
+  <img src="docs/product-images/hero.png" alt="VisionCare AI — An academic eye-image classification project, from notebooks to web." width="100%">
+</p>
+
+<table>
+<tr>
+  <td width="33%"><img src="docs/product-images/feature-01.png" alt="Computer vision. In a web app. — Explore an academic workflow for uploading and classifying eye images." width="100%"></td>
+  <td width="33%"><img src="docs/product-images/feature-02.png" alt="Check the image before classifying. — An initial eye-or-not-eye check precedes the four-class classifier." width="100%"></td>
+  <td width="33%"><img src="docs/product-images/feature-03.png" alt="Compare models. Document the work. — Model experiments and the final project report live alongside the application." width="100%"></td>
+</tr>
+</table>
+
+<!-- product-images:end -->
+
 ---
 
 ## Overview
@@ -35,12 +53,12 @@ The repository also contains the project's final report and defense slides.
 
 ## Tech Stack
 
-| Area | Technology |
-| --- | --- |
-| Machine learning | PyTorch, torchvision (VGG16, ResNet18), Jupyter |
-| Model API | Flask, Flask-CORS |
-| Backend | PHP, Laravel, Docker Compose |
-| Frontend | React, Vite, MUI, Tailwind CSS, GSAP, Framer Motion |
+| Area             | Technology                                          |
+| ---------------- | --------------------------------------------------- |
+| Machine learning | PyTorch, torchvision (VGG16, ResNet18), Jupyter     |
+| Model API        | Flask, Flask-CORS                                   |
+| Backend          | PHP, Laravel, Docker Compose                        |
+| Frontend         | React, Vite, MUI, Tailwind CSS, GSAP, Framer Motion |
 
 ## Getting Started
 
